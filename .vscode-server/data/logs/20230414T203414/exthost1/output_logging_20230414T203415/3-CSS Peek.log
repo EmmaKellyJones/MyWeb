@@ -1,0 +1,1214 @@
+[Server(590) Chulipc/] onInitialize
+[Server(590) Chulipc/] setupInitialStylemap
+[Server(590) Chulipc/] Document opened: web.html
+[Server(590) Chulipc/] Document changed: web.html
+[Server(590) Chulipc/] Document changed: web.html
+[Server(590) Chulipc/] Document changed: web.html
+[Server(590) Chulipc/] Document changed: web.html
+head 229
+  html 17 21
+  head 34 38
+  meta 45 49
+  meta 72 76
+  meta 130 134
+  title 205 210
+  title 220 225
+  head 229 233
+head is a "html tag"
+highlight.css has 74 symbols
+  9:0    [5] .hljs-keyword
+  9:0    [5] .hljs-literal
+  9:0    [5] .hljs-symbol
+  9:0    [5] .hljs-name
+  15:0    [5] .hljs-link
+  20:0    [5] .hljs-built_in
+  20:0    [5] .hljs-type
+  25:0    [5] .hljs-number
+  25:0    [5] .hljs-class
+  30:0    [5] .hljs-string
+  30:0    [5] .hljs-meta-string
+  35:0    [5] .hljs-regexp
+  35:0    [5] .hljs-template-tag
+  40:0    [5] .hljs-subst
+  40:0    [5] .hljs-function
+  40:0    [5] .hljs-title
+  40:0    [5] .hljs-params
+  40:0    [5] .hljs-formula
+  48:0    [5] .hljs-comment
+  48:0    [5] .hljs-quote
+  54:0    [5] .hljs-doctag
+  58:0    [5] .hljs-meta
+  58:0    [5] .hljs-meta-keyword
+  58:0    [5] .hljs-tag
+  64:0    [5] .hljs-variable
+  64:0    [5] .hljs-template-variable
+  69:0    [5] .hljs-attr
+  69:0    [5] .hljs-attribute
+  69:0    [5] .hljs-builtin-name
+  75:0    [5] .hljs-section
+  79:0    [5] .hljs-emphasis
+  83:0    [5] .hljs-strong
+  91:0    [5] .hljs-bullet
+  91:0    [5] .hljs-selector-tag
+  91:0    [5] .hljs-selector-id
+  91:0    [5] .hljs-selector-class
+  91:0    [5] .hljs-selector-attr
+  91:0    [5] .hljs-selector-pseudo
+  100:0    [5] .hljs-addition
+  107:0    [5] .hljs-deletion
+  124:0    [5] .vscode-light .hljs-function
+  124:0    [5] .vscode-light .hljs-params
+  124:0    [5] .vscode-light .hljs-number
+  124:0    [5] .vscode-light .hljs-class
+  131:0    [5] .vscode-light .hljs-comment
+  131:0    [5] .vscode-light .hljs-quote
+  131:0    [5] .vscode-light .hljs-number
+  131:0    [5] .vscode-light .hljs-class
+  131:0    [5] .vscode-light .hljs-variable
+  139:0    [5] .vscode-light .hljs-keyword
+  139:0    [5] .vscode-light .hljs-selector-tag
+  139:0    [5] .vscode-light .hljs-name
+  139:0    [5] .vscode-light .hljs-tag
+  146:0    [5] .vscode-light .hljs-built_in
+  146:0    [5] .vscode-light .hljs-builtin-name
+  151:0    [5] .vscode-light .hljs-string
+  151:0    [5] .vscode-light .hljs-section
+  151:0    [5] .vscode-light .hljs-attribute
+  151:0    [5] .vscode-light .hljs-literal
+  151:0    [5] .vscode-light .hljs-template-tag
+  151:0    [5] .vscode-light .hljs-template-variable
+  151:0    [5] .vscode-light .hljs-type
+  161:0    [5] .vscode-light .hljs-selector-attr
+  161:0    [5] .vscode-light .hljs-selector-pseudo
+  161:0    [5] .vscode-light .hljs-meta
+  161:0    [5] .vscode-light .hljs-meta-keyword
+  168:0    [5] .vscode-light .hljs-title
+  168:0    [5] .vscode-light .hljs-doctag
+  173:0    [5] .vscode-light .hljs-attr
+  177:0    [5] .vscode-light .hljs-symbol
+  177:0    [5] .vscode-light .hljs-bullet
+  177:0    [5] .vscode-light .hljs-link
+  184:0    [5] .vscode-light .hljs-emphasis
+  188:0    [5] .vscode-light .hljs-strong
+markdown.css has 73 symbols
+  5:0    [5] html
+  5:0    [5] body
+  13:0    [5] body
+  18:0    [5] h1
+  18:0    [5] h2
+  18:0    [5] h3
+  18:0    [5] h4
+  18:0    [5] h5
+  18:0    [5] h6
+  18:0    [5] p
+  18:0    [5] ol
+  18:0    [5] ul
+  18:0    [5] pre
+  23:0    [5] h2
+  23:0    [5] h3
+  23:0    [5] h4
+  23:0    [5] h5
+  23:0    [5] h6
+  28:0    [5] #code-csp-warning
+  43:0    [5] #code-csp-warning:hover
+  49:0    [5] body.scrollBeyondLastLine
+  53:0    [5] body.showEditorSelection .code-line
+  57:0    [5] body.showEditorSelection :not(tr,ul,ol).code-active-line:before
+  57:0    [5] body.showEditorSelection :not(tr,ul,ol).code-line:hover:before
+  67:0    [5] .vscode-high-contrast.showEditorSelection  :not(tr,ul,ol).code-line .code-line:hover:before
+  71:0    [5] body.showEditorSelection li.code-active-line:before
+  71:0    [5] body.showEditorSelection li.code-line:hover:before
+  76:0    [5] .vscode-light.showEditorSelection .code-active-line:before
+  80:0    [5] .vscode-light.showEditorSelection .code-line:hover:before
+  84:0    [5] .vscode-dark.showEditorSelection .code-active-line:before
+  88:0    [5] .vscode-dark.showEditorSelection .code-line:hover:before
+  92:0    [5] .vscode-high-contrast.showEditorSelection .code-active-line:before
+  96:0    [5] .vscode-high-contrast.showEditorSelection .code-line:hover:before
+  101:0    [5] ul ul
+  101:0    [5] ul ol
+  101:0    [5] ol ul
+  101:0    [5] ol ol
+  108:0    [5] img
+  108:0    [5] video
+  113:0    [5] a
+  117:0    [5] a:hover
+  121:0    [5] a:focus
+  121:0    [5] input:focus
+  121:0    [5] select:focus
+  121:0    [5] textarea:focus
+  129:0    [5] p
+  133:0    [5] ul
+  133:0    [5] ol
+  138:0    [5] hr
+  144:0    [5] h1
+  152:0    [5] table
+  157:0    [5] th
+  162:0    [5] th
+  162:0    [5] td
+  167:0    [5] table > tbody > tr + tr > td
+  171:0    [5] blockquote
+  178:0    [5] code
+  184:0    [5] body.wordWrap pre
+  188:0    [5] pre:not(.hljs)
+  188:0    [5] pre.hljs code > div
+  195:0    [5] pre code
+  202:0    [5] .vscode-light pre
+  206:0    [5] .vscode-dark pre
+  210:0    [5] .vscode-high-contrast pre
+  214:0    [5] .vscode-high-contrast h1
+  218:0    [5] .vscode-light th
+  222:0    [5] .vscode-dark th
+  226:0    [5] .vscode-light h1
+  226:0    [5] .vscode-light hr
+  226:0    [5] .vscode-light td
+  232:0    [5] .vscode-dark h1
+  232:0    [5] .vscode-dark hr
+  232:0    [5] .vscode-dark td
+audioPreview.css has 14 symbols
+  5:0    [5] html
+  5:0    [5] body
+  11:0    [5] body
+  18:0    [5] .audio-container
+  25:0    [5] .container.loading
+  25:0    [5] .container.error
+  32:0    [5] .loading-indicator
+  39:0    [5] .loading-indicator
+  39:0    [5] .loading-error
+  44:0    [5] .loading .loading-indicator
+  44:0    [5] .error .loading-error
+  49:0    [5] .loading-error
+  53:0    [5] .vscode-dark .loading-indicator
+  57:0    [5] .vscode-high-contrast .loading-indicator
+videoPreview.css has 10 symbols
+  5:0    [5] html
+  11:0    [5] body
+  22:0    [5] .loading-indicator
+  29:0    [5] .loading-indicator
+  29:0    [5] .loading-error
+  34:0    [5] .loading .loading-indicator
+  34:0    [5] .error .loading-error
+  39:0    [5] .loading-error
+  43:0    [5] .vscode-dark .loading-indicator
+  47:0    [5] .vscode-high-contrast .loading-indicator
+imagePreview.css has 26 symbols
+  5:0    [5] html
+  5:0    [5] body
+  11:0    [5] body img
+  16:0    [5] .container:focus
+  20:0    [5] .container
+  27:0    [5] .container.image
+  33:0    [5] .container.image img
+  40:0    [5] .container.image img
+  46:0    [5] .vscode-dark.container.image img
+  52:0    [5] .container img.pixelated
+  56:0    [5] .container img.scale-to-fit
+  62:0    [5] .container img
+  66:0    [5] .container.ready.zoom-in
+  70:0    [5] .container.ready.zoom-out
+  74:0    [5] .container .embedded-link
+  74:0    [5] .container .embedded-link:hover
+  81:0    [5] .container.loading
+  81:0    [5] .container.error
+  88:0    [5] .loading-indicator
+  95:0    [5] .loading-indicator
+  95:0    [5] .image-load-error
+  100:0    [5] .loading .loading-indicator
+  100:0    [5] .error .image-load-error
+  105:0    [5] .image-load-error
+  109:0    [5] .vscode-dark .loading-indicator
+  113:0    [5] .vscode-high-contrast .loading-indicator
+main.css has 21 symbols
+  5:0    [5] :root
+  13:0    [5] html
+  13:0    [5] body
+  20:0    [5] body
+  25:0    [5] input:not([type='checkbox'])
+  25:0    [5] textarea
+  38:0    [5] input::placeholder
+  38:0    [5] textarea::placeholder
+  43:0    [5] button
+  53:0    [5] button:hover:not(:disabled)
+  59:0    [5] button:disabled
+  63:0    [5] input:focus
+  63:0    [5] button:focus
+  68:0    [5] .header
+  73:0    [5] .url-input
+  77:0    [5] .controls
+  81:0    [5] .controls button
+  86:0    [5] .content
+  93:0    [5] iframe
+  100:0    [5] .iframe-focused-alert
+  115:0    [5] .iframe-focused.enable-focus-lock-indicator .iframe-focused-alert
+codicon.css has 427 symbols
+  0:0    [5] @font-face
+  0:83805    [5] .codicon[class*=codicon-]
+  0:84064    [5] .codicon-add:before
+  0:84100    [5] .codicon-plus:before
+  0:84137    [5] .codicon-gist-new:before
+  0:84178    [5] .codicon-repo-create:before
+  0:84222    [5] .codicon-lightbulb:before
+  0:84264    [5] .codicon-light-bulb:before
+  0:84307    [5] .codicon-repo:before
+  0:84344    [5] .codicon-repo-delete:before
+  0:84388    [5] .codicon-gist-fork:before
+  0:84430    [5] .codicon-repo-forked:before
+  0:84474    [5] .codicon-git-pull-request:before
+  0:84523    [5] .codicon-git-pull-request-abandoned:before
+  0:84582    [5] .codicon-record-keys:before
+  0:84626    [5] .codicon-keyboard:before
+  0:84667    [5] .codicon-tag:before
+  0:84703    [5] .codicon-tag-add:before
+  0:84743    [5] .codicon-tag-remove:before
+  0:84786    [5] .codicon-person:before
+  0:84825    [5] .codicon-person-add:before
+  0:84868    [5] .codicon-person-follow:before
+  0:84914    [5] .codicon-person-outline:before
+  0:84961    [5] .codicon-person-filled:before
+  0:85007    [5] .codicon-git-branch:before
+  0:85050    [5] .codicon-git-branch-create:before
+  0:85100    [5] .codicon-git-branch-delete:before
+  0:85150    [5] .codicon-source-control:before
+  0:85197    [5] .codicon-mirror:before
+  0:85236    [5] .codicon-mirror-public:before
+  0:85282    [5] .codicon-star:before
+  0:85319    [5] .codicon-star-add:before
+  0:85360    [5] .codicon-star-delete:before
+  0:85404    [5] .codicon-star-empty:before
+  0:85447    [5] .codicon-comment:before
+  0:85487    [5] .codicon-comment-add:before
+  0:85531    [5] .codicon-alert:before
+  0:85569    [5] .codicon-warning:before
+  0:85609    [5] .codicon-search:before
+  0:85648    [5] .codicon-search-save:before
+  0:85692    [5] .codicon-log-out:before
+  0:85732    [5] .codicon-sign-out:before
+  0:85773    [5] .codicon-log-in:before
+  0:85812    [5] .codicon-sign-in:before
+  0:85852    [5] .codicon-eye:before
+  0:85888    [5] .codicon-eye-unwatch:before
+  0:85932    [5] .codicon-eye-watch:before
+  0:85974    [5] .codicon-circle-filled:before
+  0:86020    [5] .codicon-primitive-dot:before
+  0:86066    [5] .codicon-close-dirty:before
+  0:86110    [5] .codicon-debug-breakpoint:before
+  0:86159    [5] .codicon-debug-breakpoint-disabled:before
+  0:86217    [5] .codicon-debug-hint:before
+  0:86260    [5] .codicon-primitive-square:before
+  0:86309    [5] .codicon-edit:before
+  0:86346    [5] .codicon-pencil:before
+  0:86385    [5] .codicon-info:before
+  0:86422    [5] .codicon-issue-opened:before
+  0:86467    [5] .codicon-gist-private:before
+  0:86512    [5] .codicon-git-fork-private:before
+  0:86561    [5] .codicon-lock:before
+  0:86598    [5] .codicon-mirror-private:before
+  0:86645    [5] .codicon-close:before
+  0:86683    [5] .codicon-remove-close:before
+  0:86728    [5] .codicon-x:before
+  0:86762    [5] .codicon-repo-sync:before
+  0:86804    [5] .codicon-sync:before
+  0:86841    [5] .codicon-clone:before
+  0:86879    [5] .codicon-desktop-download:before
+  0:86928    [5] .codicon-beaker:before
+  0:86967    [5] .codicon-microscope:before
+  0:87010    [5] .codicon-vm:before
+  0:87045    [5] .codicon-device-desktop:before
+  0:87092    [5] .codicon-file:before
+  0:87129    [5] .codicon-file-text:before
+  0:87171    [5] .codicon-more:before
+  0:87208    [5] .codicon-ellipsis:before
+  0:87249    [5] .codicon-kebab-horizontal:before
+  0:87298    [5] .codicon-mail-reply:before
+  0:87341    [5] .codicon-reply:before
+  0:87379    [5] .codicon-organization:before
+  0:87424    [5] .codicon-organization-filled:before
+  0:87476    [5] .codicon-organization-outline:before
+  0:87529    [5] .codicon-new-file:before
+  0:87570    [5] .codicon-file-add:before
+  0:87611    [5] .codicon-new-folder:before
+  0:87654    [5] .codicon-file-directory-create:before
+  0:87708    [5] .codicon-trash:before
+  0:87746    [5] .codicon-trashcan:before
+  0:87787    [5] .codicon-history:before
+  0:87827    [5] .codicon-clock:before
+  0:87865    [5] .codicon-folder:before
+  0:87904    [5] .codicon-file-directory:before
+  0:87951    [5] .codicon-symbol-folder:before
+  0:87997    [5] .codicon-logo-github:before
+  0:88041    [5] .codicon-mark-github:before
+  0:88085    [5] .codicon-github:before
+  0:88124    [5] .codicon-terminal:before
+  0:88165    [5] .codicon-console:before
+  0:88205    [5] .codicon-repl:before
+  0:88242    [5] .codicon-zap:before
+  0:88278    [5] .codicon-symbol-event:before
+  0:88323    [5] .codicon-error:before
+  0:88361    [5] .codicon-stop:before
+  0:88398    [5] .codicon-variable:before
+  0:88439    [5] .codicon-symbol-variable:before
+  0:88487    [5] .codicon-array:before
+  0:88525    [5] .codicon-symbol-array:before
+  0:88570    [5] .codicon-symbol-module:before
+  0:88616    [5] .codicon-symbol-package:before
+  0:88663    [5] .codicon-symbol-namespace:before
+  0:88712    [5] .codicon-symbol-object:before
+  0:88758    [5] .codicon-symbol-method:before
+  0:88804    [5] .codicon-symbol-function:before
+  0:88852    [5] .codicon-symbol-constructor:before
+  0:88903    [5] .codicon-symbol-boolean:before
+  0:88950    [5] .codicon-symbol-null:before
+  0:88994    [5] .codicon-symbol-numeric:before
+  0:89041    [5] .codicon-symbol-number:before
+  0:89087    [5] .codicon-symbol-structure:before
+  0:89136    [5] .codicon-symbol-struct:before
+  0:89182    [5] .codicon-symbol-parameter:before
+  0:89231    [5] .codicon-symbol-type-parameter:before
+  0:89285    [5] .codicon-symbol-key:before
+  0:89328    [5] .codicon-symbol-text:before
+  0:89372    [5] .codicon-symbol-reference:before
+  0:89421    [5] .codicon-go-to-file:before
+  0:89464    [5] .codicon-symbol-enum:before
+  0:89508    [5] .codicon-symbol-value:before
+  0:89553    [5] .codicon-symbol-ruler:before
+  0:89598    [5] .codicon-symbol-unit:before
+  0:89642    [5] .codicon-activate-breakpoints:before
+  0:89695    [5] .codicon-archive:before
+  0:89735    [5] .codicon-arrow-both:before
+  0:89778    [5] .codicon-arrow-down:before
+  0:89821    [5] .codicon-arrow-left:before
+  0:89864    [5] .codicon-arrow-right:before
+  0:89908    [5] .codicon-arrow-small-down:before
+  0:89957    [5] .codicon-arrow-small-left:before
+  0:90006    [5] .codicon-arrow-small-right:before
+  0:90056    [5] .codicon-arrow-small-up:before
+  0:90103    [5] .codicon-arrow-up:before
+  0:90144    [5] .codicon-bell:before
+  0:90181    [5] .codicon-bold:before
+  0:90218    [5] .codicon-book:before
+  0:90255    [5] .codicon-bookmark:before
+  0:90296    [5] .codicon-debug-breakpoint-conditional-unverified:before
+  0:90368    [5] .codicon-debug-breakpoint-conditional:before
+  0:90429    [5] .codicon-debug-breakpoint-conditional-disabled:before
+  0:90499    [5] .codicon-debug-breakpoint-data-unverified:before
+  0:90564    [5] .codicon-debug-breakpoint-data:before
+  0:90618    [5] .codicon-debug-breakpoint-data-disabled:before
+  0:90681    [5] .codicon-debug-breakpoint-log-unverified:before
+  0:90745    [5] .codicon-debug-breakpoint-log:before
+  0:90798    [5] .codicon-debug-breakpoint-log-disabled:before
+  0:90860    [5] .codicon-briefcase:before
+  0:90902    [5] .codicon-broadcast:before
+  0:90944    [5] .codicon-browser:before
+  0:90984    [5] .codicon-bug:before
+  0:91020    [5] .codicon-calendar:before
+  0:91061    [5] .codicon-case-sensitive:before
+  0:91108    [5] .codicon-check:before
+  0:91146    [5] .codicon-checklist:before
+  0:91188    [5] .codicon-chevron-down:before
+  0:91233    [5] .codicon-chevron-left:before
+  0:91278    [5] .codicon-chevron-right:before
+  0:91324    [5] .codicon-chevron-up:before
+  0:91367    [5] .codicon-chrome-close:before
+  0:91412    [5] .codicon-chrome-maximize:before
+  0:91460    [5] .codicon-chrome-minimize:before
+  0:91508    [5] .codicon-chrome-restore:before
+  0:91555    [5] .codicon-circle-outline:before
+  0:91602    [5] .codicon-debug-breakpoint-unverified:before
+  0:91662    [5] .codicon-circle-slash:before
+  0:91707    [5] .codicon-circuit-board:before
+  0:91753    [5] .codicon-clear-all:before
+  0:91795    [5] .codicon-clippy:before
+  0:91834    [5] .codicon-close-all:before
+  0:91876    [5] .codicon-cloud-download:before
+  0:91923    [5] .codicon-cloud-upload:before
+  0:91968    [5] .codicon-code:before
+  0:92005    [5] .codicon-collapse-all:before
+  0:92050    [5] .codicon-color-mode:before
+  0:92093    [5] .codicon-comment-discussion:before
+  0:92144    [5] .codicon-credit-card:before
+  0:92188    [5] .codicon-dash:before
+  0:92225    [5] .codicon-dashboard:before
+  0:92267    [5] .codicon-database:before
+  0:92308    [5] .codicon-debug-continue:before
+  0:92355    [5] .codicon-debug-disconnect:before
+  0:92404    [5] .codicon-debug-pause:before
+  0:92448    [5] .codicon-debug-restart:before
+  0:92494    [5] .codicon-debug-start:before
+  0:92538    [5] .codicon-debug-step-into:before
+  0:92586    [5] .codicon-debug-step-out:before
+  0:92633    [5] .codicon-debug-step-over:before
+  0:92681    [5] .codicon-debug-stop:before
+  0:92724    [5] .codicon-debug:before
+  0:92762    [5] .codicon-device-camera-video:before
+  0:92814    [5] .codicon-device-camera:before
+  0:92860    [5] .codicon-device-mobile:before
+  0:92906    [5] .codicon-diff-added:before
+  0:92949    [5] .codicon-diff-ignored:before
+  0:92994    [5] .codicon-diff-modified:before
+  0:93040    [5] .codicon-diff-removed:before
+  0:93085    [5] .codicon-diff-renamed:before
+  0:93130    [5] .codicon-diff:before
+  0:93167    [5] .codicon-discard:before
+  0:93207    [5] .codicon-editor-layout:before
+  0:93253    [5] .codicon-empty-window:before
+  0:93298    [5] .codicon-exclude:before
+  0:93338    [5] .codicon-extensions:before
+  0:93381    [5] .codicon-eye-closed:before
+  0:93424    [5] .codicon-file-binary:before
+  0:93468    [5] .codicon-file-code:before
+  0:93510    [5] .codicon-file-media:before
+  0:93553    [5] .codicon-file-pdf:before
+  0:93594    [5] .codicon-file-submodule:before
+  0:93641    [5] .codicon-file-symlink-directory:before
+  0:93696    [5] .codicon-file-symlink-file:before
+  0:93746    [5] .codicon-file-zip:before
+  0:93787    [5] .codicon-files:before
+  0:93825    [5] .codicon-filter:before
+  0:93864    [5] .codicon-flame:before
+  0:93902    [5] .codicon-fold-down:before
+  0:93944    [5] .codicon-fold-up:before
+  0:93984    [5] .codicon-fold:before
+  0:94021    [5] .codicon-folder-active:before
+  0:94067    [5] .codicon-folder-opened:before
+  0:94113    [5] .codicon-gear:before
+  0:94150    [5] .codicon-gift:before
+  0:94187    [5] .codicon-gist-secret:before
+  0:94231    [5] .codicon-gist:before
+  0:94268    [5] .codicon-git-commit:before
+  0:94311    [5] .codicon-git-compare:before
+  0:94355    [5] .codicon-compare-changes:before
+  0:94403    [5] .codicon-git-merge:before
+  0:94445    [5] .codicon-github-action:before
+  0:94491    [5] .codicon-github-alt:before
+  0:94534    [5] .codicon-globe:before
+  0:94572    [5] .codicon-grabber:before
+  0:94612    [5] .codicon-graph:before
+  0:94650    [5] .codicon-gripper:before
+  0:94690    [5] .codicon-heart:before
+  0:94728    [5] .codicon-home:before
+  0:94765    [5] .codicon-horizontal-rule:before
+  0:94813    [5] .codicon-hubot:before
+  0:94851    [5] .codicon-inbox:before
+  0:94889    [5] .codicon-issue-closed:before
+  0:94934    [5] .codicon-issue-reopened:before
+  0:94981    [5] .codicon-issues:before
+  0:95020    [5] .codicon-italic:before
+  0:95059    [5] .codicon-jersey:before
+  0:95098    [5] .codicon-json:before
+  0:95135    [5] .codicon-kebab-vertical:before
+  0:95182    [5] .codicon-key:before
+  0:95218    [5] .codicon-law:before
+  0:95254    [5] .codicon-lightbulb-autofix:before
+  0:95304    [5] .codicon-link-external:before
+  0:95350    [5] .codicon-link:before
+  0:95387    [5] .codicon-list-ordered:before
+  0:95432    [5] .codicon-list-unordered:before
+  0:95479    [5] .codicon-live-share:before
+  0:95522    [5] .codicon-loading:before
+  0:95562    [5] .codicon-location:before
+  0:95603    [5] .codicon-mail-read:before
+  0:95645    [5] .codicon-mail:before
+  0:95682    [5] .codicon-markdown:before
+  0:95723    [5] .codicon-megaphone:before
+  0:95765    [5] .codicon-mention:before
+  0:95805    [5] .codicon-milestone:before
+  0:95847    [5] .codicon-mortar-board:before
+  0:95892    [5] .codicon-move:before
+  0:95929    [5] .codicon-multiple-windows:before
+  0:95978    [5] .codicon-mute:before
+  0:96015    [5] .codicon-no-newline:before
+  0:96058    [5] .codicon-note:before
+  0:96095    [5] .codicon-octoface:before
+  0:96136    [5] .codicon-open-preview:before
+  0:96181    [5] .codicon-package:before
+  0:96221    [5] .codicon-paintcan:before
+  0:96262    [5] .codicon-pin:before
+  0:96298    [5] .codicon-play:before
+  0:96335    [5] .codicon-run:before
+  0:96371    [5] .codicon-plug:before
+  0:96408    [5] .codicon-preserve-case:before
+  0:96454    [5] .codicon-preview:before
+  0:96494    [5] .codicon-project:before
+  0:96534    [5] .codicon-pulse:before
+  0:96572    [5] .codicon-question:before
+  0:96613    [5] .codicon-quote:before
+  0:96651    [5] .codicon-radio-tower:before
+  0:96695    [5] .codicon-reactions:before
+  0:96737    [5] .codicon-references:before
+  0:96780    [5] .codicon-refresh:before
+  0:96820    [5] .codicon-regex:before
+  0:96858    [5] .codicon-remote-explorer:before
+  0:96906    [5] .codicon-remote:before
+  0:96945    [5] .codicon-remove:before
+  0:96984    [5] .codicon-replace-all:before
+  0:97028    [5] .codicon-replace:before
+  0:97068    [5] .codicon-repo-clone:before
+  0:97111    [5] .codicon-repo-force-push:before
+  0:97159    [5] .codicon-repo-pull:before
+  0:97201    [5] .codicon-repo-push:before
+  0:97243    [5] .codicon-report:before
+  0:97282    [5] .codicon-request-changes:before
+  0:97330    [5] .codicon-rocket:before
+  0:97369    [5] .codicon-root-folder-opened:before
+  0:97420    [5] .codicon-root-folder:before
+  0:97464    [5] .codicon-rss:before
+  0:97500    [5] .codicon-ruby:before
+  0:97537    [5] .codicon-save-all:before
+  0:97578    [5] .codicon-save-as:before
+  0:97618    [5] .codicon-save:before
+  0:97655    [5] .codicon-screen-full:before
+  0:97699    [5] .codicon-screen-normal:before
+  0:97745    [5] .codicon-search-stop:before
+  0:97789    [5] .codicon-server:before
+  0:97828    [5] .codicon-settings-gear:before
+  0:97874    [5] .codicon-settings:before
+  0:97915    [5] .codicon-shield:before
+  0:97954    [5] .codicon-smiley:before
+  0:97993    [5] .codicon-sort-precedence:before
+  0:98041    [5] .codicon-split-horizontal:before
+  0:98090    [5] .codicon-split-vertical:before
+  0:98137    [5] .codicon-squirrel:before
+  0:98178    [5] .codicon-star-full:before
+  0:98220    [5] .codicon-star-half:before
+  0:98262    [5] .codicon-symbol-class:before
+  0:98307    [5] .codicon-symbol-color:before
+  0:98352    [5] .codicon-symbol-constant:before
+  0:98400    [5] .codicon-symbol-enum-member:before
+  0:98451    [5] .codicon-symbol-field:before
+  0:98496    [5] .codicon-symbol-file:before
+  0:98540    [5] .codicon-symbol-interface:before
+  0:98589    [5] .codicon-symbol-keyword:before
+  0:98636    [5] .codicon-symbol-misc:before
+  0:98680    [5] .codicon-symbol-operator:before
+  0:98728    [5] .codicon-symbol-property:before
+  0:98776    [5] .codicon-wrench:before
+  0:98815    [5] .codicon-wrench-subaction:before
+  0:98864    [5] .codicon-symbol-snippet:before
+  0:98911    [5] .codicon-tasklist:before
+  0:98952    [5] .codicon-telescope:before
+  0:98994    [5] .codicon-text-size:before
+  0:99036    [5] .codicon-three-bars:before
+  0:99079    [5] .codicon-thumbsdown:before
+  0:99122    [5] .codicon-thumbsup:before
+  0:99163    [5] .codicon-tools:before
+  0:99201    [5] .codicon-triangle-down:before
+  0:99247    [5] .codicon-triangle-left:before
+  0:99293    [5] .codicon-triangle-right:before
+  0:99340    [5] .codicon-triangle-up:before
+  0:99384    [5] .codicon-twitter:before
+  0:99424    [5] .codicon-unfold:before
+  0:99463    [5] .codicon-unlock:before
+  0:99502    [5] .codicon-unmute:before
+  0:99541    [5] .codicon-unverified:before
+  0:99584    [5] .codicon-verified:before
+  0:99625    [5] .codicon-versions:before
+  0:99666    [5] .codicon-vm-active:before
+  0:99708    [5] .codicon-vm-outline:before
+  0:99751    [5] .codicon-vm-running:before
+  0:99794    [5] .codicon-watch:before
+  0:99832    [5] .codicon-whitespace:before
+  0:99875    [5] .codicon-whole-word:before
+  0:99918    [5] .codicon-window:before
+  0:99957    [5] .codicon-word-wrap:before
+  0:99999    [5] .codicon-zoom-in:before
+  0:100039    [5] .codicon-zoom-out:before
+  0:100080    [5] .codicon-list-filter:before
+  0:100124    [5] .codicon-list-flat:before
+  0:100166    [5] .codicon-list-selection:before
+  0:100213    [5] .codicon-selection:before
+  0:100255    [5] .codicon-list-tree:before
+  0:100297    [5] .codicon-debug-breakpoint-function-unverified:before
+  0:100366    [5] .codicon-debug-breakpoint-function:before
+  0:100424    [5] .codicon-debug-breakpoint-function-disabled:before
+  0:100491    [5] .codicon-debug-stackframe-active:before
+  0:100547    [5] .codicon-debug-stackframe-dot:before
+  0:100600    [5] .codicon-debug-stackframe:before
+  0:100649    [5] .codicon-debug-stackframe-focused:before
+  0:100706    [5] .codicon-debug-breakpoint-unsupported:before
+  0:100767    [5] .codicon-symbol-string:before
+  0:100813    [5] .codicon-debug-reverse-continue:before
+  0:100868    [5] .codicon-debug-step-back:before
+  0:100916    [5] .codicon-debug-restart-frame:before
+  0:100968    [5] .codicon-debug-alt:before
+  0:101010    [5] .codicon-call-incoming:before
+  0:101056    [5] .codicon-call-outgoing:before
+  0:101102    [5] .codicon-menu:before
+  0:101139    [5] .codicon-expand-all:before
+  0:101182    [5] .codicon-feedback:before
+  0:101223    [5] .codicon-group-by-ref-type:before
+  0:101273    [5] .codicon-ungroup-by-ref-type:before
+  0:101325    [5] .codicon-account:before
+  0:101365    [5] .codicon-bell-dot:before
+  0:101406    [5] .codicon-debug-console:before
+  0:101452    [5] .codicon-library:before
+  0:101492    [5] .codicon-output:before
+  0:101531    [5] .codicon-run-all:before
+  0:101571    [5] .codicon-sync-ignored:before
+  0:101616    [5] .codicon-pinned:before
+  0:101655    [5] .codicon-github-inverted:before
+  0:101703    [5] .codicon-server-process:before
+  0:101750    [5] .codicon-server-environment:before
+  0:101801    [5] .codicon-pass:before
+  0:101838    [5] .codicon-stop-circle:before
+  0:101882    [5] .codicon-play-circle:before
+  0:101926    [5] .codicon-record:before
+  0:101965    [5] .codicon-debug-alt-small:before
+  0:102013    [5] .codicon-vm-connect:before
+  0:102056    [5] .codicon-cloud:before
+  0:102094    [5] .codicon-merge:before
+  0:102132    [5] .codicon-export:before
+  0:102171    [5] .codicon-graph-left:before
+  0:102214    [5] .codicon-magnet:before
+  0:102253    [5] .codicon-notebook:before
+  0:102294    [5] .codicon-redo:before
+  0:102331    [5] .codicon-check-all:before
+  0:102373    [5] .codicon-pinned-dirty:before
+  0:102418    [5] .codicon-pass-filled:before
+  0:102462    [5] .codicon-circle-large-filled:before
+  0:102514    [5] .codicon-circle-large-outline:before
+  0:102567    [5] .codicon-combine:before
+  0:102607    [5] .codicon-gather:before
+auth.css has 14 symbols
+  5:0    [5] html
+  9:0    [5] body
+  21:0    [5] .branding
+  34:0    [5] .message-container
+  42:0    [5] .message
+  47:0    [5] body.error .message
+  51:0    [5] body.error .error-message
+  55:0    [5] .error-message
+  61:0    [5] .error-text
+  66:0    [5] @font-face
+  73:0    [5] @font-face
+  80:0    [5] @font-face
+  87:0    [5] @font-face
+  94:0    [5] @font-face
+index.css has 1 symbols
+  5:0    [5] .katex-error
+katex.min.css has 398 symbols
+  0:0    [5] @font-face
+  0:223    [5] @font-face
+  0:469    [5] @font-face
+  0:724    [5] @font-face
+  0:954    [5] @font-face
+  0:1193    [5] @font-face
+  0:1411    [5] @font-face
+  0:1647    [5] @font-face
+  0:1871    [5] @font-face
+  0:2098    [5] @font-face
+  0:2334    [5] @font-face
+  0:2558    [5] @font-face
+  0:2798    [5] @font-face
+  0:3044    [5] @font-face
+  0:3293    [5] @font-face
+  0:3528    [5] @font-face
+  0:3759    [5] @font-face
+  0:3990    [5] @font-face
+  0:4221    [5] @font-face
+  0:4452    [5] @font-face
+  0:4703    [5] .katex
+  0:4812    [5] .katex *
+  0:4887    [5] .katex .katex-version:after
+  0:4932    [5] .katex .katex-mathml
+  0:5054    [5] .katex .katex-html>.newline
+  0:5096    [5] .katex .base
+  0:5213    [5] .katex .base
+  0:5213    [5] .katex .strut
+  0:5261    [5] .katex .textbf
+  0:5292    [5] .katex .textit
+  0:5325    [5] .katex .textrm
+  0:5363    [5] .katex .textsf
+  0:5406    [5] .katex .texttt
+  0:5450    [5] .katex .mathnormal
+  0:5510    [5] .katex .mathit
+  0:5566    [5] .katex .mathrm
+  0:5599    [5] .katex .mathbf
+  0:5653    [5] .katex .boldsymbol
+  0:5729    [5] .katex .amsrm
+  0:5729    [5] .katex .mathbb
+  0:5729    [5] .katex .textbb
+  0:5795    [5] .katex .mathcal
+  0:5841    [5] .katex .mathfrak
+  0:5841    [5] .katex .textfrak
+  0:5901    [5] .katex .mathtt
+  0:5945    [5] .katex .mathscr
+  0:5945    [5] .katex .textscr
+  0:6002    [5] .katex .mathsf
+  0:6002    [5] .katex .textsf
+  0:6060    [5] .katex .mathboldsf
+  0:6060    [5] .katex .textboldsf
+  0:6142    [5] .katex .mathitsf
+  0:6142    [5] .katex .textitsf
+  0:6222    [5] .katex .mainrm
+  0:6278    [5] .katex .vlist-t
+  0:6359    [5] .katex .vlist-r
+  0:6393    [5] .katex .vlist
+  0:6466    [5] .katex .vlist>span
+  0:6526    [5] .katex .vlist>span>span
+  0:6571    [5] .katex .vlist>span>.pstrut
+  0:6622    [5] .katex .vlist-t2
+  0:6657    [5] .katex .vlist-s
+  0:6752    [5] .katex .vbox
+  0:6828    [5] .katex .hbox
+  0:6852    [5] .katex .hbox
+  0:6852    [5] .katex .thinbox
+  0:6920    [5] .katex .thinbox
+  0:6956    [5] .katex .msupsub
+  0:6988    [5] .katex .mfrac>span>span
+  0:7030    [5] .katex .mfrac .frac-line
+  0:7113    [5] .katex .hdashline
+  0:7113    [5] .katex .hline
+  0:7113    [5] .katex .mfrac .frac-line
+  0:7113    [5] .katex .overline .overline-line
+  0:7113    [5] .katex .rule
+  0:7113    [5] .katex .underline .underline-line
+  0:7264    [5] .katex .mspace
+  0:7300    [5] .katex .clap
+  0:7300    [5] .katex .llap
+  0:7300    [5] .katex .rlap
+  0:7365    [5] .katex .clap>.inner
+  0:7365    [5] .katex .llap>.inner
+  0:7365    [5] .katex .rlap>.inner
+  0:7443    [5] .katex .clap>.fix
+  0:7443    [5] .katex .llap>.fix
+  0:7443    [5] .katex .rlap>.fix
+  0:7518    [5] .katex .llap>.inner
+  0:7546    [5] .katex .clap>.inner
+  0:7546    [5] .katex .rlap>.inner
+  0:7593    [5] .katex .clap>.inner>span
+  0:7652    [5] .katex .rule
+  0:7719    [5] .katex .hline
+  0:7719    [5] .katex .overline .overline-line
+  0:7719    [5] .katex .underline .underline-line
+  0:7857    [5] .katex .hdashline
+  0:7934    [5] .katex .sqrt>.root
+  0:8003    [5] .katex .fontsize-ensurer.reset-size1.size1
+  0:8003    [5] .katex .sizing.reset-size1.size1
+  0:8093    [5] .katex .fontsize-ensurer.reset-size1.size2
+  0:8093    [5] .katex .sizing.reset-size1.size2
+  0:8185    [5] .katex .fontsize-ensurer.reset-size1.size3
+  0:8185    [5] .katex .sizing.reset-size1.size3
+  0:8277    [5] .katex .fontsize-ensurer.reset-size1.size4
+  0:8277    [5] .katex .sizing.reset-size1.size4
+  0:8369    [5] .katex .fontsize-ensurer.reset-size1.size5
+  0:8369    [5] .katex .sizing.reset-size1.size5
+  0:8461    [5] .katex .fontsize-ensurer.reset-size1.size6
+  0:8461    [5] .katex .sizing.reset-size1.size6
+  0:8551    [5] .katex .fontsize-ensurer.reset-size1.size7
+  0:8551    [5] .katex .sizing.reset-size1.size7
+  0:8643    [5] .katex .fontsize-ensurer.reset-size1.size8
+  0:8643    [5] .katex .sizing.reset-size1.size8
+  0:8736    [5] .katex .fontsize-ensurer.reset-size1.size9
+  0:8736    [5] .katex .sizing.reset-size1.size9
+  0:8830    [5] .katex .fontsize-ensurer.reset-size1.size10
+  0:8830    [5] .katex .sizing.reset-size1.size10
+  0:8926    [5] .katex .fontsize-ensurer.reset-size1.size11
+  0:8926    [5] .katex .sizing.reset-size1.size11
+  0:9022    [5] .katex .fontsize-ensurer.reset-size2.size1
+  0:9022    [5] .katex .sizing.reset-size2.size1
+  0:9120    [5] .katex .fontsize-ensurer.reset-size2.size2
+  0:9120    [5] .katex .sizing.reset-size2.size2
+  0:9210    [5] .katex .fontsize-ensurer.reset-size2.size3
+  0:9210    [5] .katex .sizing.reset-size2.size3
+  0:9309    [5] .katex .fontsize-ensurer.reset-size2.size4
+  0:9309    [5] .katex .sizing.reset-size2.size4
+  0:9408    [5] .katex .fontsize-ensurer.reset-size2.size5
+  0:9408    [5] .katex .sizing.reset-size2.size5
+  0:9500    [5] .katex .fontsize-ensurer.reset-size2.size6
+  0:9500    [5] .katex .sizing.reset-size2.size6
+  0:9599    [5] .katex .fontsize-ensurer.reset-size2.size7
+  0:9599    [5] .katex .sizing.reset-size2.size7
+  0:9689    [5] .katex .fontsize-ensurer.reset-size2.size8
+  0:9689    [5] .katex .sizing.reset-size2.size8
+  0:9781    [5] .katex .fontsize-ensurer.reset-size2.size9
+  0:9781    [5] .katex .sizing.reset-size2.size9
+  0:9874    [5] .katex .fontsize-ensurer.reset-size2.size10
+  0:9874    [5] .katex .sizing.reset-size2.size10
+  0:9975    [5] .katex .fontsize-ensurer.reset-size2.size11
+  0:9975    [5] .katex .sizing.reset-size2.size11
+  0:10076    [5] .katex .fontsize-ensurer.reset-size3.size1
+  0:10076    [5] .katex .sizing.reset-size3.size1
+  0:10174    [5] .katex .fontsize-ensurer.reset-size3.size2
+  0:10174    [5] .katex .sizing.reset-size3.size2
+  0:10272    [5] .katex .fontsize-ensurer.reset-size3.size3
+  0:10272    [5] .katex .sizing.reset-size3.size3
+  0:10362    [5] .katex .fontsize-ensurer.reset-size3.size4
+  0:10362    [5] .katex .sizing.reset-size3.size4
+  0:10461    [5] .katex .fontsize-ensurer.reset-size3.size5
+  0:10461    [5] .katex .sizing.reset-size3.size5
+  0:10560    [5] .katex .fontsize-ensurer.reset-size3.size6
+  0:10560    [5] .katex .sizing.reset-size3.size6
+  0:10659    [5] .katex .fontsize-ensurer.reset-size3.size7
+  0:10659    [5] .katex .sizing.reset-size3.size7
+  0:10758    [5] .katex .fontsize-ensurer.reset-size3.size8
+  0:10758    [5] .katex .sizing.reset-size3.size8
+  0:10857    [5] .katex .fontsize-ensurer.reset-size3.size9
+  0:10857    [5] .katex .sizing.reset-size3.size9
+  0:10956    [5] .katex .fontsize-ensurer.reset-size3.size10
+  0:10956    [5] .katex .sizing.reset-size3.size10
+  0:11057    [5] .katex .fontsize-ensurer.reset-size3.size11
+  0:11057    [5] .katex .sizing.reset-size3.size11
+  0:11158    [5] .katex .fontsize-ensurer.reset-size4.size1
+  0:11158    [5] .katex .sizing.reset-size4.size1
+  0:11251    [5] .katex .fontsize-ensurer.reset-size4.size2
+  0:11251    [5] .katex .sizing.reset-size4.size2
+  0:11343    [5] .katex .fontsize-ensurer.reset-size4.size3
+  0:11343    [5] .katex .sizing.reset-size4.size3
+  0:11436    [5] .katex .fontsize-ensurer.reset-size4.size4
+  0:11436    [5] .katex .sizing.reset-size4.size4
+  0:11526    [5] .katex .fontsize-ensurer.reset-size4.size5
+  0:11526    [5] .katex .sizing.reset-size4.size5
+  0:11620    [5] .katex .fontsize-ensurer.reset-size4.size6
+  0:11620    [5] .katex .sizing.reset-size4.size6
+  0:11713    [5] .katex .fontsize-ensurer.reset-size4.size7
+  0:11713    [5] .katex .sizing.reset-size4.size7
+  0:11805    [5] .katex .fontsize-ensurer.reset-size4.size8
+  0:11805    [5] .katex .sizing.reset-size4.size8
+  0:11897    [5] .katex .fontsize-ensurer.reset-size4.size9
+  0:11897    [5] .katex .sizing.reset-size4.size9
+  0:11990    [5] .katex .fontsize-ensurer.reset-size4.size10
+  0:11990    [5] .katex .sizing.reset-size4.size10
+  0:12087    [5] .katex .fontsize-ensurer.reset-size4.size11
+  0:12087    [5] .katex .sizing.reset-size4.size11
+  0:12182    [5] .katex .fontsize-ensurer.reset-size5.size1
+  0:12182    [5] .katex .sizing.reset-size5.size1
+  0:12280    [5] .katex .fontsize-ensurer.reset-size5.size2
+  0:12280    [5] .katex .sizing.reset-size5.size2
+  0:12378    [5] .katex .fontsize-ensurer.reset-size5.size3
+  0:12378    [5] .katex .sizing.reset-size5.size3
+  0:12476    [5] .katex .fontsize-ensurer.reset-size5.size4
+  0:12476    [5] .katex .sizing.reset-size5.size4
+  0:12574    [5] .katex .fontsize-ensurer.reset-size5.size5
+  0:12574    [5] .katex .sizing.reset-size5.size5
+  0:12664    [5] .katex .fontsize-ensurer.reset-size5.size6
+  0:12664    [5] .katex .sizing.reset-size5.size6
+  0:12763    [5] .katex .fontsize-ensurer.reset-size5.size7
+  0:12763    [5] .katex .sizing.reset-size5.size7
+  0:12862    [5] .katex .fontsize-ensurer.reset-size5.size8
+  0:12862    [5] .katex .sizing.reset-size5.size8
+  0:12954    [5] .katex .fontsize-ensurer.reset-size5.size9
+  0:12954    [5] .katex .sizing.reset-size5.size9
+  0:13047    [5] .katex .fontsize-ensurer.reset-size5.size10
+  0:13047    [5] .katex .sizing.reset-size5.size10
+  0:13148    [5] .katex .fontsize-ensurer.reset-size5.size11
+  0:13148    [5] .katex .sizing.reset-size5.size11
+  0:13249    [5] .katex .fontsize-ensurer.reset-size6.size1
+  0:13249    [5] .katex .sizing.reset-size6.size1
+  0:13340    [5] .katex .fontsize-ensurer.reset-size6.size2
+  0:13340    [5] .katex .sizing.reset-size6.size2
+  0:13431    [5] .katex .fontsize-ensurer.reset-size6.size3
+  0:13431    [5] .katex .sizing.reset-size6.size3
+  0:13522    [5] .katex .fontsize-ensurer.reset-size6.size4
+  0:13522    [5] .katex .sizing.reset-size6.size4
+  0:13613    [5] .katex .fontsize-ensurer.reset-size6.size5
+  0:13613    [5] .katex .sizing.reset-size6.size5
+  0:13704    [5] .katex .fontsize-ensurer.reset-size6.size6
+  0:13704    [5] .katex .sizing.reset-size6.size6
+  0:13794    [5] .katex .fontsize-ensurer.reset-size6.size7
+  0:13794    [5] .katex .sizing.reset-size6.size7
+  0:13886    [5] .katex .fontsize-ensurer.reset-size6.size8
+  0:13886    [5] .katex .sizing.reset-size6.size8
+  0:13979    [5] .katex .fontsize-ensurer.reset-size6.size9
+  0:13979    [5] .katex .sizing.reset-size6.size9
+  0:14073    [5] .katex .fontsize-ensurer.reset-size6.size10
+  0:14073    [5] .katex .sizing.reset-size6.size10
+  0:14169    [5] .katex .fontsize-ensurer.reset-size6.size11
+  0:14169    [5] .katex .sizing.reset-size6.size11
+  0:14265    [5] .katex .fontsize-ensurer.reset-size7.size1
+  0:14265    [5] .katex .sizing.reset-size7.size1
+  0:14363    [5] .katex .fontsize-ensurer.reset-size7.size2
+  0:14363    [5] .katex .sizing.reset-size7.size2
+  0:14454    [5] .katex .fontsize-ensurer.reset-size7.size3
+  0:14454    [5] .katex .sizing.reset-size7.size3
+  0:14552    [5] .katex .fontsize-ensurer.reset-size7.size4
+  0:14552    [5] .katex .sizing.reset-size7.size4
+  0:14650    [5] .katex .fontsize-ensurer.reset-size7.size5
+  0:14650    [5] .katex .sizing.reset-size7.size5
+  0:14742    [5] .katex .fontsize-ensurer.reset-size7.size6
+  0:14742    [5] .katex .sizing.reset-size7.size6
+  0:14840    [5] .katex .fontsize-ensurer.reset-size7.size7
+  0:14840    [5] .katex .sizing.reset-size7.size7
+  0:14930    [5] .katex .fontsize-ensurer.reset-size7.size8
+  0:14930    [5] .katex .sizing.reset-size7.size8
+  0:15022    [5] .katex .fontsize-ensurer.reset-size7.size9
+  0:15022    [5] .katex .sizing.reset-size7.size9
+  0:15115    [5] .katex .fontsize-ensurer.reset-size7.size10
+  0:15115    [5] .katex .sizing.reset-size7.size10
+  0:15216    [5] .katex .fontsize-ensurer.reset-size7.size11
+  0:15216    [5] .katex .sizing.reset-size7.size11
+  0:15317    [5] .katex .fontsize-ensurer.reset-size8.size1
+  0:15317    [5] .katex .sizing.reset-size8.size1
+  0:15415    [5] .katex .fontsize-ensurer.reset-size8.size2
+  0:15415    [5] .katex .sizing.reset-size8.size2
+  0:15513    [5] .katex .fontsize-ensurer.reset-size8.size3
+  0:15513    [5] .katex .sizing.reset-size8.size3
+  0:15611    [5] .katex .fontsize-ensurer.reset-size8.size4
+  0:15611    [5] .katex .sizing.reset-size8.size4
+  0:15709    [5] .katex .fontsize-ensurer.reset-size8.size5
+  0:15709    [5] .katex .sizing.reset-size8.size5
+  0:15802    [5] .katex .fontsize-ensurer.reset-size8.size6
+  0:15802    [5] .katex .sizing.reset-size8.size6
+  0:15900    [5] .katex .fontsize-ensurer.reset-size8.size7
+  0:15900    [5] .katex .sizing.reset-size8.size7
+  0:15998    [5] .katex .fontsize-ensurer.reset-size8.size8
+  0:15998    [5] .katex .sizing.reset-size8.size8
+  0:16088    [5] .katex .fontsize-ensurer.reset-size8.size9
+  0:16088    [5] .katex .sizing.reset-size8.size9
+  0:16180    [5] .katex .fontsize-ensurer.reset-size8.size10
+  0:16180    [5] .katex .sizing.reset-size8.size10
+  0:16281    [5] .katex .fontsize-ensurer.reset-size8.size11
+  0:16281    [5] .katex .sizing.reset-size8.size11
+  0:16382    [5] .katex .fontsize-ensurer.reset-size9.size1
+  0:16382    [5] .katex .sizing.reset-size9.size1
+  0:16480    [5] .katex .fontsize-ensurer.reset-size9.size2
+  0:16480    [5] .katex .sizing.reset-size9.size2
+  0:16578    [5] .katex .fontsize-ensurer.reset-size9.size3
+  0:16578    [5] .katex .sizing.reset-size9.size3
+  0:16676    [5] .katex .fontsize-ensurer.reset-size9.size4
+  0:16676    [5] .katex .sizing.reset-size9.size4
+  0:16774    [5] .katex .fontsize-ensurer.reset-size9.size5
+  0:16774    [5] .katex .sizing.reset-size9.size5
+  0:16872    [5] .katex .fontsize-ensurer.reset-size9.size6
+  0:16872    [5] .katex .sizing.reset-size9.size6
+  0:16969    [5] .katex .fontsize-ensurer.reset-size9.size7
+  0:16969    [5] .katex .sizing.reset-size9.size7
+  0:17067    [5] .katex .fontsize-ensurer.reset-size9.size8
+  0:17067    [5] .katex .sizing.reset-size9.size8
+  0:17165    [5] .katex .fontsize-ensurer.reset-size9.size9
+  0:17165    [5] .katex .sizing.reset-size9.size9
+  0:17255    [5] .katex .fontsize-ensurer.reset-size9.size10
+  0:17255    [5] .katex .sizing.reset-size9.size10
+  0:17356    [5] .katex .fontsize-ensurer.reset-size9.size11
+  0:17356    [5] .katex .sizing.reset-size9.size11
+  0:17457    [5] .katex .fontsize-ensurer.reset-size10.size1
+  0:17457    [5] .katex .sizing.reset-size10.size1
+  0:17557    [5] .katex .fontsize-ensurer.reset-size10.size2
+  0:17557    [5] .katex .sizing.reset-size10.size2
+  0:17657    [5] .katex .fontsize-ensurer.reset-size10.size3
+  0:17657    [5] .katex .sizing.reset-size10.size3
+  0:17757    [5] .katex .fontsize-ensurer.reset-size10.size4
+  0:17757    [5] .katex .sizing.reset-size10.size4
+  0:17857    [5] .katex .fontsize-ensurer.reset-size10.size5
+  0:17857    [5] .katex .sizing.reset-size10.size5
+  0:17957    [5] .katex .fontsize-ensurer.reset-size10.size6
+  0:17957    [5] .katex .sizing.reset-size10.size6
+  0:18057    [5] .katex .fontsize-ensurer.reset-size10.size7
+  0:18057    [5] .katex .sizing.reset-size10.size7
+  0:18157    [5] .katex .fontsize-ensurer.reset-size10.size8
+  0:18157    [5] .katex .sizing.reset-size10.size8
+  0:18257    [5] .katex .fontsize-ensurer.reset-size10.size9
+  0:18257    [5] .katex .sizing.reset-size10.size9
+  0:18357    [5] .katex .fontsize-ensurer.reset-size10.size10
+  0:18357    [5] .katex .sizing.reset-size10.size10
+  0:18451    [5] .katex .fontsize-ensurer.reset-size10.size11
+  0:18451    [5] .katex .sizing.reset-size10.size11
+  0:18554    [5] .katex .fontsize-ensurer.reset-size11.size1
+  0:18554    [5] .katex .sizing.reset-size11.size1
+  0:18654    [5] .katex .fontsize-ensurer.reset-size11.size2
+  0:18654    [5] .katex .sizing.reset-size11.size2
+  0:18754    [5] .katex .fontsize-ensurer.reset-size11.size3
+  0:18754    [5] .katex .sizing.reset-size11.size3
+  0:18854    [5] .katex .fontsize-ensurer.reset-size11.size4
+  0:18854    [5] .katex .sizing.reset-size11.size4
+  0:18954    [5] .katex .fontsize-ensurer.reset-size11.size5
+  0:18954    [5] .katex .sizing.reset-size11.size5
+  0:19054    [5] .katex .fontsize-ensurer.reset-size11.size6
+  0:19054    [5] .katex .sizing.reset-size11.size6
+  0:19154    [5] .katex .fontsize-ensurer.reset-size11.size7
+  0:19154    [5] .katex .sizing.reset-size11.size7
+  0:19254    [5] .katex .fontsize-ensurer.reset-size11.size8
+  0:19254    [5] .katex .sizing.reset-size11.size8
+  0:19354    [5] .katex .fontsize-ensurer.reset-size11.size9
+  0:19354    [5] .katex .sizing.reset-size11.size9
+  0:19454    [5] .katex .fontsize-ensurer.reset-size11.size10
+  0:19454    [5] .katex .sizing.reset-size11.size10
+  0:19556    [5] .katex .fontsize-ensurer.reset-size11.size11
+  0:19556    [5] .katex .sizing.reset-size11.size11
+  0:19650    [5] .katex .delimsizing.size1
+  0:19700    [5] .katex .delimsizing.size2
+  0:19750    [5] .katex .delimsizing.size3
+  0:19800    [5] .katex .delimsizing.size4
+  0:19850    [5] .katex .delimsizing.mult .delim-size1>span
+  0:19917    [5] .katex .delimsizing.mult .delim-size4>span
+  0:19984    [5] .katex .nulldelimiter
+  0:20039    [5] .katex .delimcenter
+  0:20039    [5] .katex .op-symbol
+  0:20095    [5] .katex .op-symbol.small-op
+  0:20146    [5] .katex .op-symbol.large-op
+  0:20197    [5] .katex .accent>.vlist-t
+  0:20197    [5] .katex .op-limits>.vlist-t
+  0:20266    [5] .katex .accent .accent-body
+  0:20312    [5] .katex .accent .accent-body:not(.accent-full)
+  0:20366    [5] .katex .overlay
+  0:20396    [5] .katex .mtable .vertical-separator
+  0:20466    [5] .katex .mtable .arraycolsep
+  0:20515    [5] .katex .mtable .col-align-c>.vlist-t
+  0:20570    [5] .katex .mtable .col-align-l>.vlist-t
+  0:20623    [5] .katex .mtable .col-align-r>.vlist-t
+  0:20677    [5] .katex .svg-align
+  0:20711    [5] .katex svg
+  0:20987    [5] .katex svg path
+  0:21015    [5] .katex img
+  0:21100    [5] .katex .stretchy
+  0:21176    [5] .katex .stretchy:after
+  0:21176    [5] .katex .stretchy:before
+  0:21234    [5] .katex .hide-tail
+  0:21297    [5] .katex .halfarrow-left
+  0:21373    [5] .katex .halfarrow-right
+  0:21451    [5] .katex .brace-left
+  0:21523    [5] .katex .brace-center
+  0:21597    [5] .katex .brace-right
+  0:21671    [5] .katex .x-arrow-pad
+  0:21706    [5] .katex .cd-arrow-pad
+  0:21757    [5] .katex .mover
+  0:21757    [5] .katex .munder
+  0:21757    [5] .katex .x-arrow
+  0:21820    [5] .katex .boxpad
+  0:21850    [5] .katex .fbox
+  0:21850    [5] .katex .fcolorbox
+  0:21922    [5] .katex .cancel-pad
+  0:21956    [5] .katex .cancel-lap
+  0:22012    [5] .katex .sout
+  0:22077    [5] .katex .angl
+  0:22184    [5] .katex .anglpad
+  0:22219    [5] .katex .eqn-num:before
+  0:22307    [5] .katex .mml-eqn-num:before
+  0:22395    [5] .katex .mtr-glue
+  0:22422    [5] .katex .cd-vert-arrow
+  0:22483    [5] .katex .cd-label-left
+  0:22583    [5] .katex .cd-label-right
+  0:22684    [5] .katex-display
+  0:22744    [5] .katex-display>.katex
+  0:22817    [5] .katex-display>.katex>.katex-html
+  0:22883    [5] .katex-display>.katex>.katex-html>.tag
+  0:22948    [5] .katex-display.leqno>.katex>.katex-html>.tag
+  0:23011    [5] .katex-display.fleqn>.katex
+  0:23072    [5] body
+diagnosticTool.css has 40 symbols
+  0:0    [5] *
+  0:21    [5] :root
+  0:59    [5] body
+  0:95    [5] a
+  0:138    [5] a:hover
+  0:167    [5] .back
+  0:209    [5] .intro
+  0:284    [5] .intro>div
+  0:397    [5] .intro>div
+  0:397    [5] .content
+  0:397    [5] .source-container.expanded
+  0:558    [5] .intro header
+  0:613    [5] .intro-content
+  0:641    [5] .intro-content li
+  0:680    [5] .intro-content li a
+  0:745    [5] .intro-content li a:hover
+  0:799    [5] .content
+  0:833    [5] .source-filter
+  0:1015    [5] .source-container
+  0:1047    [5] .source-container code
+  0:1091    [5] .source-container.expanded+.source-container.expanded
+  0:1161    [5] .source-container h2
+  0:1296    [5] .source-container h2:hover
+  0:1333    [5] .source-container.expanded h2
+  0:1383    [5] .source-data-grid
+  0:1479    [5] .source-data-grid li
+  0:1521    [5] .source-breadcrumbs
+  0:1608    [5] .source-breadcrumbs li
+  0:1667    [5] .bp-tracing code
+  0:1725    [5] .bp-tracing li
+  0:1764    [5] .bp-tracing p
+  0:1793    [5] .bp-tracing li ul
+  0:1829    [5] .decision-buttons
+  0:1862    [5] button
+  0:1994    [5] button:hover
+  0:1994    [5] button:focus
+  0:2068    [5] .decision-buttons button+button
+  0:2119    [5] .decision-buttons button.active
+  0:2199    [5] .text-diff .add
+  0:2335    [5] .text-diff .rm
+markdown.css has 2 symbols
+  5:0    [5] .vscode-dark img[src$=\#gh-light-mode-only]
+  5:0    [5] .vscode-light img[src$=\#gh-dark-mode-only]
+auth.css has 14 symbols
+  5:0    [5] html
+  9:0    [5] body
+  21:0    [5] .branding
+  34:0    [5] .message-container
+  42:0    [5] .message
+  47:0    [5] body.error .message
+  51:0    [5] body.error .error-message
+  55:0    [5] .error-message
+  61:0    [5] .error-text
+  66:0    [5] @font-face
+  73:0    [5] @font-face
+  80:0    [5] @font-face
+  87:0    [5] @font-face
+  94:0    [5] @font-face
+[Server(590) Chulipc/] Document opened: web.html
+[Server(590) Chulipc/] Document changed: web.html
+charset= 50
+  html 17 21
+  head 34 38
+  meta 45 49
+  meta 72 76
+  meta 130 134
+  title 205 210
+  title 220 225
+  head 229 233
+  body 236 240
+  div 247 250
+  h1 261 263
+  h1 307 309
+  div 317 320
+  body 324 328
+  html 332 336
+Invalid Selector
+http-equiv= 77
+  html 17 21
+  head 34 38
+  meta 45 49
+  meta 72 76
+  meta 130 134
+  title 205 210
+  title 220 225
+  head 229 233
+  body 236 240
+  div 247 250
+  h1 261 263
+  h1 307 309
+  div 317 320
+  body 324 328
+  html 332 336
+Invalid Selector
+name= 135
+  html 17 21
+  head 34 38
+  meta 45 49
+  meta 72 76
+  meta 130 134
+  title 205 210
+  title 220 225
+  head 229 233
+  body 236 240
+  div 247 250
+  h1 261 263
+  h1 307 309
+  div 317 320
+  body 324 328
+  html 332 336
+Invalid Selector
+Perrote 277
+  html 17 21
+  head 34 38
+  meta 45 49
+  meta 72 76
+  meta 130 134
+  title 205 210
+  title 220 225
+  head 229 233
+  body 236 240
+  div 247 250
+  h1 261 263
+  h1 307 309
+  div 317 320
+  body 324 328
+  html 332 336
+Invalid Selector
